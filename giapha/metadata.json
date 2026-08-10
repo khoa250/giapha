@@ -1,0 +1,8 @@
+{
+  "name": "Trợ Lý Gia Phả Họ Nguyễn Văn",
+  "description": "Trợ lý gia phả thông minh gia tộc Nguyễn Văn - tra cứu cây gia phả, tìm kiếm thành viên, đối chiếu quan hệ và trò chuyện AI lịch sự lễ phép.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
